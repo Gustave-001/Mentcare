@@ -1,0 +1,12 @@
+com\gustaveandjesse\mentcare\DBHelper.class
+mentcare\ui\ReportsPanel.class
+mentcare\ui\LoginFrame.class
+com\gustaveandjesse\mentcare\Main.class
+mentcare\ui\AppointmentPanel.class
+mentcare\ui\ChatbotPanel.class
+mentcare\ui\PatientPanel.class
+mentcare\models\Appointment.class
+mentcare\ui\DashboardFrame.class
+mentcare\models\Patient.class
+mentcare\models\Staff.class
+mentcare\ui\MonitoringPanel.class
